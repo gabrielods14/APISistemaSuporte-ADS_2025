@@ -15,12 +15,12 @@ O projeto visa desenvolver um sistema integrado de suporte técnico para uma emp
 
 A sprint backlog foi feita levanto os seguintes requisitos em consideração, MVP e prioridade. Usamos a metodologia de MVP para listar os requisitos minimos para ter um produto funcionando. Basedado nisso também levamos em consideração a importancia de cada requisito, dado como alta: Prioridade máxima. Média: Muito importante, porém menos urgente. Baixa: Requisito que pode ser feito mais para o final, levando em consideração funções que podem ser fetias após o sistema pronto. Abaixo terá um link para um arquivo PNG, onde tem uma tabela feita em Execel ilustrando está descrição.
 
-- [Tabela sprint Backlog]()
+- [Tabela sprint Backlog](https://github.com/gabrielods14/APISistemaSuporte-ADS_2025/blob/main/docs/Img/Sprintbacklog.jpg)
 ---
 
 ## Arquivo Astah com os diagramas:
 
-- [Arquivo Astah]()
+- [Arquivo Astah](https://github.com/gabrielods14/APISistemaSuporte-ADS_2025/blob/main/docs/Diagramas%20UML/Diagramas%20ASTAH.astaL)
 ---
 
 ## ✅ Definition of Ready (DoR)
@@ -33,7 +33,6 @@ A sprint backlog foi feita levanto os seguintes requisitos em consideração, MV
 
 ## 📆 Cronograma de Sprints
 
-A formatação feita para o Github perdeu as datas. As sprints foram usados duas semanas para cada uma. A sprint 1 foi usado do dia 8 de abril até dia 15 de abril. A sprint 2 do dia 15 até dia 29. E a sprint 3 ainda está em desenvolvimento, começou no dia 30 e vai até dia 13.
 
 | **REQUISITO**                                         | **TAREFA**                                                       | **SPRINT** | **PRIORIDADE** |
 | ----------------------------------------------------- | ---------------------------------------------------------------- | ---------- | -------------- |
@@ -89,9 +88,11 @@ pip install -r requirements.txt
 
 # Executar
 python app.py
+```
 
+---
 
-## Integrantes
+## 💪 Integrantes
 
 - [Lucas de Oliveira Silva](https://github.com/Kript0-Web) (Scrum Master)
 - [Samuel Jhonata de Lima](https://github.com/SamuJL) (PO)
