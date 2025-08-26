@@ -13,14 +13,14 @@ O projeto visa desenvolver um sistema integrado de suporte técnico para uma emp
 
 ## Sprints dos requisitos do sistema:
 
-A sprint backlog foi feita levanto os seguintes requisitos em consideração, MVP e prioridade. Usamos a metodologia de MVP para listar os requisitos minimos para ter um produto funcionando. Basedado nisso também levamos em consideração a importancia de cada requisito, dado como alta: Prioridade máxima. Média: Muito importante, porém menos urgente. Baixa: Requisito que pode ser feito mais para o final, levando em consideração funções que podem ser fetias após o sistema pronto. Abaixo terá um link para um arquivo PNG, onde tem uma tabela feita em Execel ilustrando está descrição.
+A sprint backlog foi feita levanto os seguintes requisitos em consideração, MVP e prioridade. Usamos a metodologia de MVP para listar os requisitos minimos para ter um produto funcionando. Basedado nisso também levamos em consideração a importancia de cada requisito, dado como alta: Prioridade máxima. Média: Muito importante, porém menos urgente. Baixa: Requisito que pode ser feito mais para o final, levando em consideração funções que podem ser fetias após o sistema pronto. Abaixo terá um link para um arquivo JPG, onde tem uma tabela feita em Excel ilustrando está descrição.
 
-- [Tabela sprint Backlog](https://github.com/gabrielods14/APISistemaSuporte-ADS_2025/blob/main/docs/Img/Sprintbacklog.jpg)
+- [Tabela sprint Backlog]()
 ---
 
 ## Arquivo Astah com os diagramas:
 
-- [Arquivo Astah](https://github.com/gabrielods14/APISistemaSuporte-ADS_2025/blob/main/docs/Diagramas%20UML/Diagramas%20ASTAH.astaL)
+- [Arquivo Astah]()
 ---
 
 ## ✅ Definition of Ready (DoR)
@@ -99,7 +99,7 @@ python app.py
 - [Gabriel Oliveira dos Santos](https://github.com/gabrielods14) (Dev)
 - [João Gabriel Goulart Silva](https://github.com/Goulart06) (Dev)
 - [Thiago Almeida Ribeiro](https://github.com/Thiagoalmeida74) (Dev)
-- {Gabriel Silva Guimarães} (Dev)
+- [Gabriel Silva Guimarães]() (Dev)
 
 ---
 
