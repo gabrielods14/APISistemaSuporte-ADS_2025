@@ -15,12 +15,14 @@ O projeto visa desenvolver um sistema integrado de suporte técnico para uma emp
 
 A sprint backlog foi feita levanto os seguintes requisitos em consideração, MVP e prioridade. Usamos a metodologia de MVP para listar os requisitos minimos para ter um produto funcionando. Basedado nisso também levamos em consideração a importancia de cada requisito, dado como alta: Prioridade máxima. Média: Muito importante, porém menos urgente. Baixa: Requisito que pode ser feito mais para o final, levando em consideração funções que podem ser fetias após o sistema pronto. Abaixo terá um link para um arquivo JPG, onde tem uma tabela feita em Excel ilustrando está descrição.
 
-- [Tabela sprint Backlog]()
+- [Tabela sprint Backlog](https://github.com/gabrielods14/APISistemaSuporte-ADS_2025/blob/main/docs/Imgs/SprintBacklog.jpg)
+
 ---
 
 ## Arquivo Astah com os diagramas:
 
-- [Arquivo Astah]()
+- [Arquivo Astah](https://github.com/gabrielods14/APISistemaSuporte-ADS_2025/blob/main/docs/Diagramas/Diagramas%20Astah.asta)
+
 ---
 
 ## ✅ Definition of Ready (DoR)
